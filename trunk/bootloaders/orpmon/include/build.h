@@ -1,1 +1,0 @@
-#define BUILD_VERSION "Sat Jan  8 12:11:53 CET 2011"

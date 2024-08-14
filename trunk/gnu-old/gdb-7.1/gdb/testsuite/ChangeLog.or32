@@ -1,7 +1,0 @@
-2010-08-25  Jeremy Bennett  <jeremy.bennett@embecosm.com>
-
-	* gdb.base/break.exp: Test for breakpoint at marker4, output
-	should be identical whether run with or without prototypes.
-	* gdb.base/call-sc.exp (test_scalar_returns): When the result of a
-	return is unknown, the value returned is undefined, not unchanged.
-

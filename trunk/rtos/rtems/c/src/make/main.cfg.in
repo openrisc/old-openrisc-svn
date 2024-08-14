@@ -1,9 +1,0 @@
-#  $Id: main.cfg.in,v 1.2 2001-09-27 12:02:06 chris Exp $
-#
-# make/main.cfg
-#
-#   Make(1) configuration file include'd by all Makefile's
-#
-# NOTE: This file does not get exported from the source tree
-#
-# Now, it's empty :)

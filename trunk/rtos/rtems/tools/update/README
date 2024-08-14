@@ -1,7 +1,0 @@
-#
-#  $Id: README,v 1.2 2001-09-27 12:02:54 chris Exp $
-#
-
-This directory contains tools which aid in upgrading from RTEMS 3.1.0
-to RTEMS 3.2.0.
-

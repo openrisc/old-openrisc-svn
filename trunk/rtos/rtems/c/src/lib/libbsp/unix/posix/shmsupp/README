@@ -1,9 +1,0 @@
-#
-#  $Id: README,v 1.2 2001-09-27 12:01:15 chris Exp $
-#
-
-This directory contains the SHM driver support files for 
-System V/POSIX derived UNIX flavors.
-
-WARNING: The interrupt support in this directory currently will
-         only work in a homogeneous system.

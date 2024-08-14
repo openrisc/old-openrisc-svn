@@ -1,4 +1,0 @@
-The HAL for the ARM NET+50 can be downloaded at ftp.mind.be
-
-To support data and instruction caching I made some modification
-to the HAL that are available as patch.

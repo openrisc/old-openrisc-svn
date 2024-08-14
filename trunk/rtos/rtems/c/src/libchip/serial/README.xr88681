@@ -1,6 +1,0 @@
-#
-#  $Id: README.xr88681,v 1.2 2001-09-27 12:01:42 chris Exp $
-#
-
-The Exar XR88681 is an enhanced version of the Motorola MC68681 and is
-supported by the mc68681 driver.

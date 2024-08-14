@@ -1,3 +1,0 @@
-2011-12-01  Jeremy Bennett  <jeremy.bennett@embecosm.com>
-
-	* ldlang.c (wild_sort): Remove references to unused section_name.

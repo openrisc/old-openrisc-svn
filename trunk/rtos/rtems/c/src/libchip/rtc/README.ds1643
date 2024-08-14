@@ -1,7 +1,0 @@
-#
-#  $Id: README.ds1643,v 1.2 2001-09-27 12:01:42 chris Exp $
-#
-
-The Mostek M48T08 is compatible with the Dallas Semiconductor DS1643.  Please
-use that driver.
-
